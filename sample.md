@@ -31,12 +31,24 @@ https://bwd.xuanen.com.tw/wd16.aspx?module=net_booking&files=booking_place&StepF
 | module   | net_booking   |                         |
 | files    | booking_place |                         |
 | StepFlag | 25            |                         |
-| QPid     | 11            |                         |
+| QPid     | 11            |    場地編號                     |
 | QTime    | 6             | 球場時間 6:00~7:00 => 6 |
 | PT       | 1             |                         |
 | D        | 2022/10/02    | 日期                    |
 
 :::
+
+| QPid | 場地  |
+| ---- | ----- |
+| 7    | 羽東4 |
+| 6    | 羽東3 |
+| 5    | 羽東2 |
+| 4    | 羽東1 |
+| 8    | 羽西5 |
+| 9    | 羽西6 |
+| 10   | 羽西7 |
+| 11   | 羽西8 |
+
 
 :::info
 ==範例2022/10/2(日)， 羽西8， 時段7:00~8:00==
